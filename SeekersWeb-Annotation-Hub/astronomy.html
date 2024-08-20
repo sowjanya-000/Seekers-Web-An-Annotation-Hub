@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astronomy | Seekers Web</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="scripts.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="content">
+        <h2>Astronomy</h2>
+        <button id="add-post-btn">Add Post</button>
+        <form id="post-form" style="display: none;">
+            <input type="text" id="post-heading" placeholder="Heading" required>
+            <input type="text" id="post-link" placeholder="Link" required>
+            <textarea id="post-content" placeholder="Content" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="post-list"></div>
+        <input type="text" id="search-input" placeholder="Search articles...">
+    </section>
+
+    <footer>
+        <p>This Website is developed by Sowjanya .</p>
+    </footer>
+</body>
+</html>
