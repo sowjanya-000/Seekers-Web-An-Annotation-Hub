@@ -1,6 +1,6 @@
 ---
 
-# **Seekers-Web-An-Annotation-Hub**
+## **Seekers-Web-An-Annotation-Hub**
 
 **Seekers-Web-An-Annotation-Hub** is an innovative platform designed to help authors and individuals store, organize, and share snippets, articles, and thoughts that contribute to their ongoing works. This website serves as a dynamic extension of published books, papers, and references, allowing for continuous engagement with the audience and the evolution of ideas.
 
